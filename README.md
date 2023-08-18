@@ -8,6 +8,7 @@ In the current pandemic scenario, the Access Controlled Face Mask Detector proje
 
 Architecture:
 The project architecture involves several components:
+
 MobileNet V2 Algorithm: A deep learning image classification algorithm that assigns weights to objects in images and differentiates between them
 
 Arduino Module: Interfaces with the mask detection model and controls the servo motor responsible for granting access.
